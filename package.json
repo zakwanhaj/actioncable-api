@@ -1,0 +1,36 @@
+{
+  "name": "cable",
+  "version": "0.1.0",
+  "description": "Sample package for ActionCable.",
+  "keywords": [
+    "websocket",
+    "cable"
+  ],
+  "maintainers": [
+    {
+      "name": "Zakwan Hajjar",
+      "email": "zakwan.haj@gmail.com",
+      "web": ""
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Zakwan Hajjar",
+      "email": "zakwan.haj@gmail.com",
+      "web": ""
+    }
+  ],
+  "bugs": {
+    "mail": "zakwan.haj@gmail.com",
+    "web": ""
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.example.org/licenses/mit.html"
+    }
+  ],
+  "dependencies": {
+    "ws": "^3.3.2"
+  }
+}
